@@ -55,6 +55,21 @@ This project enables users to upload files via a REST API, which are then analyz
 
 
 &nbsp;📁 Folder Structure
+Serverless-File-Upload-And-Analysis-System/
+├── src/
+│   ├── process_function/
+│   │   └── ...your Lambda code...
+│   ├── upload_function/
+│   │   └── ...your Lambda code...
+├── zips/
+│   ├── process_function.zip
+│   └── upload_function.zip
+├── screenshots/
+│   └── fileuploaderfunction.png
+├── requirements.txt
+├── README.md
+├── LICENSE
+└── .gitignore
 
 
 
