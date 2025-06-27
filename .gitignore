@@ -1,0 +1,44 @@
+Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+ 
+VS Code / PyCharm IDE settings
+.vscode/
+.idea/
+
+Environment and configuration
+.env
+*.env
+.env.*
+
+Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+AWS credentials and configs
+.aws/
+*.pem
+*.key
+*.csr
+
+Deployment artifacts
+*.zip
+*.tar.gz
+*.egg
+*.egg-info/
+dist/
+build/
+
+System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+Logs
+*.log
+
